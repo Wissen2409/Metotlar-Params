@@ -1,0 +1,14 @@
+/Users/emrahelis/Metotlar-Params/bin/Debug/net8.0/Metotlar-Params
+/Users/emrahelis/Metotlar-Params/bin/Debug/net8.0/Metotlar-Params.deps.json
+/Users/emrahelis/Metotlar-Params/bin/Debug/net8.0/Metotlar-Params.runtimeconfig.json
+/Users/emrahelis/Metotlar-Params/bin/Debug/net8.0/Metotlar-Params.dll
+/Users/emrahelis/Metotlar-Params/bin/Debug/net8.0/Metotlar-Params.pdb
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.AssemblyInfoInputs.cache
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.AssemblyInfo.cs
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.dll
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/refint/Metotlar-Params.dll
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.pdb
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/Metotlar-Params.genruntimeconfig.cache
+/Users/emrahelis/Metotlar-Params/obj/Debug/net8.0/ref/Metotlar-Params.dll
